@@ -2,20 +2,20 @@
     <h1 align="center">Hi, I'm Matias </h1>
     <img src="synth_00.jpg" width="400"
 </div>
-    <h4 align="center">Data Analyst (specialized in Python) from Argentina 🇦🇷 (living in Germany 🇩🇪 )</h4>
+    <h4 align="center">Data Analyst (specialized in Python) from Argentina 🇦🇷 living in Germany 🇩🇪 </h4>
 <div align="left">
   
 ## About me
 
 - 🌱 Currently deepening in Data Science
-- :desktop_computer: I started programming 30 years ago and have knowledge in Python, C++, Java, Cobol, Delphi, Visual Basic, Pascal.
+- :desktop_computer: I started programming 30 years ago and have knowledge in Python, C++, Java, Cobol, Delphi, Visual Basic, Pascal
 - :neckbeard: I have taught programming for more than 20 years</h3>
 
 ## Projects
 
-|Data Analysis |     |Data Science
-|---           |---  |---
-<!-- |     |          | -->
+|Data Analysis |     |Data Science|     |CRUD
+|---           |---  |---         |---  |---
+<!-- |---           |---  |---         |---  |--- -->
 
 ## Lenguages and Tools
 <div align="left">
