@@ -25,17 +25,17 @@
 
 ## Lenguages and Tools
 <div align="left">
-  <img src="https://github.com/okcomputer11/okcomputer11/blob/main/python.png" title="python" alt="python" width="40" height=40"/>&nbsp;
-  <img src="" title="pandas" alt="pandas" width="40" height=40"/>&nbsp;
+  <img src="python.png" title="python" alt="python" width="40" height=40"/>&nbsp;
+  <img src="Pandas_mark.png" title="pandas" alt="pandas" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height=40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height=40"/>&nbsp;
+  <img src="django.svg" title="django" alt="django" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height=40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="c++" alt="c++" width="40" height=40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height=40"/>&nbsp;
+  <img src="cpp.png" title="c++" alt="c++" width="40" height=40"/>&nbsp;
+  <img src="java.png" title="java" alt="java" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height=40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="osx" alt="osx" width="40" height=40"/>&nbsp;
+  <img src="mac-os-x-lion.png" title="osx" alt="osx" width="40" height=40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="windows" alt="windows" width="40" height=40"/>&nbsp;
     
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height=40"/>&nbsp;
